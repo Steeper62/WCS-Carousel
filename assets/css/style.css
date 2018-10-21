@@ -1,0 +1,28 @@
+.image img {
+    width: 100%;
+}
+.carousel{
+    width: 100vw;
+    position: relative;
+    background-color: black;
+}
+.button {
+    position: absolute;
+    top: 45%;
+    background-color: #3e432e95;
+    height: 5vw;
+    width: 5vw;
+    border-radius: 100%;
+}
+.button img {
+    width: 100%;
+    height: auto;
+}
+
+.right {
+    right: 10%;
+}
+.left {
+    left: 10%;
+}
+
